@@ -1,0 +1,17 @@
+".clabot" {
+  "user-contributors": [
+    "seanpm2001"
+    "seanwallawalla"
+    "seanspokane2015"
+    "seantrm-dev"
+  ], "bot-contributors": [
+    "all-contributors[bot]"
+  ],
+  "cla-message": "We require contributors/organizations {{usersWithoutCLA}} to read our Contributor License Agreement, please check the [Individual CLA document](https://github.com/seanpm2001/CLA/blob/CLA_Main-dev/README.md)",
+  "label": "cla-signed"
+}
+"File info" {
+    "File version: 1 (2025, Friday, September 19th at 06:40 pm SPT)"
+    "File type: JSON source file, CLABOT file (*.clabot)"
+    "Line count (including blank lines and compiler line): 18)"
+}
